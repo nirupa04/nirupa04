@@ -17,9 +17,9 @@
 - UNIFIED HEALTH:Unified Healthcare is a website where we can store all the medical histories of an individual and access them easily using a digital health card with QR integration
 - STUDENT REPOSITORY:Student repository is a website where we can see all the  student’s informations and resume.
 
-📫 **Get in Touch:**
+📫 Get in Touch:
 - [LinkedIn](https://www.linkedin.com/in/nirupa-n-s-11a625229)
-- [Personal Website/Blog](https://portfolionirupa.vercel.app/)
+- [Personal Website/Blog](https://portfolio-nirupa.vercel.app/)
 
 ---
 
